@@ -1,0 +1,315 @@
+{
+  "id": "0cd00f13-6cd4-4562-9010-452b268e35c3",
+  "name": "Beta v0.113.1 Coop QoL",
+  "game_version": "0.113.1",
+  "created_by": "arscabar",
+  "mods": [
+    {
+      "mod_version_id": "8230dd5a-3e33-4715-ae4e-d1a9cb7f6e98",
+      "name": "BaseLib Compatibility Helper",
+      "version": "v0.0.0",
+      "source": null,
+      "hash": "aeaed51bfdf69b26a8e803218a16425bc65cfcfe5bb4c5d5c02b4e38157b389e",
+      "files": [
+        "BaseLibCompatibilityHelper\\BaseLibCompatibilityHelper.dll",
+        "BaseLibCompatibilityHelper\\BaseLibCompatibilityHelper.json"
+      ],
+      "folder_name": "BaseLibCompatibilityHelper",
+      "mod_id": "BaseLibCompatibilityHelper",
+      "enabled": true,
+      "bundle_url": "https://github.com/arscabar/sts2mm-profiles/releases/download/bundles/BaseLib_Compatibility_Helper_v0.0.0_db354244.zip",
+      "bundle_sha256": "db354244a5d5f6875a07a3917cebaf0f9abe7a56c6ad94305762f305bc98b47d"
+    },
+    {
+      "mod_version_id": "9cbe1d80-2296-4284-9d11-fbdb1176806c",
+      "name": "BaseLib",
+      "version": "v3.4.8",
+      "source": null,
+      "hash": "cee134554ce4f8ca7d75fcb77fbd28af7ab77f7c8e278e3d224cd106e38e7731",
+      "files": [
+        "BaseLib\\BaseLib.dll",
+        "BaseLib\\BaseLib.json",
+        "BaseLib\\BaseLib.pck"
+      ],
+      "folder_name": "BaseLib",
+      "mod_id": "BaseLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/arscabar/sts2mm-profiles/releases/download/bundles/BaseLib_v3.4.8_52c60abd.zip",
+      "bundle_sha256": "52c60abdf1ca4269b4be712529dc4953d640a115d87826a5e4e3feb9c0067722"
+    },
+    {
+      "mod_version_id": "febb681f-ed19-4b0e-9625-63bd018db3e0",
+      "name": "RitsuLib",
+      "version": "0.6.15",
+      "source": null,
+      "hash": "96f0c122e2923220f7d15971208d89a7d83ec18326329e51145db669a24fd125",
+      "files": [
+        "STS2-RitsuLib\\assets.zip",
+        "STS2-RitsuLib\\compat\\0.107.1\\compat-target.txt",
+        "STS2-RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.Runtime.dll",
+        "STS2-RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.Runtime.pdb",
+        "STS2-RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.Runtime.xml",
+        "STS2-RitsuLib\\compat\\0.107.1\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\compat\\0.111.0\\compat-target.txt",
+        "STS2-RitsuLib\\compat\\0.111.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\compat\\0.111.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\compat\\0.111.0\\STS2-RitsuLib.Runtime.dll",
+        "STS2-RitsuLib\\compat\\0.111.0\\STS2-RitsuLib.Runtime.pdb",
+        "STS2-RitsuLib\\compat\\0.111.0\\STS2-RitsuLib.Runtime.xml",
+        "STS2-RitsuLib\\compat\\0.111.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\compat\\0.113.0\\compat-target.txt",
+        "STS2-RitsuLib\\compat\\0.113.0\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\compat\\0.113.0\\STS2-RitsuLib.pdb",
+        "STS2-RitsuLib\\compat\\0.113.0\\STS2-RitsuLib.Runtime.dll",
+        "STS2-RitsuLib\\compat\\0.113.0\\STS2-RitsuLib.Runtime.pdb",
+        "STS2-RitsuLib\\compat\\0.113.0\\STS2-RitsuLib.Runtime.xml",
+        "STS2-RitsuLib\\compat\\0.113.0\\STS2-RitsuLib.xml",
+        "STS2-RitsuLib\\mod_manifest.json",
+        "STS2-RitsuLib\\ritsulib-variants.manifest",
+        "STS2-RitsuLib\\RitsuLib.References.props",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Settings.dll",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Settings.pdb",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Settings.xml",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Shared.dll",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Shared.pdb",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Shared.xml",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Ui.dll",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Ui.pdb",
+        "STS2-RitsuLib\\shared\\STS2-RitsuLib.Ui.xml",
+        "STS2-RitsuLib\\STS2-RitsuLib.dll",
+        "STS2-RitsuLib\\viewer\\assets\\index.css",
+        "STS2-RitsuLib\\viewer\\assets\\index.js",
+        "STS2-RitsuLib\\viewer\\index.html"
+      ],
+      "folder_name": "STS2-RitsuLib",
+      "mod_id": "STS2-RitsuLib",
+      "enabled": true,
+      "bundle_url": "https://github.com/arscabar/sts2mm-profiles/releases/download/bundles/RitsuLib_v0.6.15_8819fd67.zip",
+      "bundle_sha256": "8819fd677fb40220b810053be2edd45489493a77e8ff32cf926eb04b17a63e57"
+    },
+    {
+      "mod_version_id": "1464d61b-0d7f-4020-a204-6171f61bd904",
+      "name": "皮皮配置: ModConfig",
+      "version": "0.2.4",
+      "source": null,
+      "hash": "27dfa700c1d1cc938a663129840ed43179a7e19a7b0971fed8289c60392b68c3",
+      "files": [
+        "ModConfig\\ModConfig.dll",
+        "ModConfig\\ModConfig.json",
+        "ModConfig\\ModConfig.pck"
+      ],
+      "folder_name": "ModConfig",
+      "mod_id": "ModConfig",
+      "enabled": true,
+      "bundle_url": "https://github.com/arscabar/sts2mm-profiles/releases/download/bundles/__ModConfig_v0.2.4_4641747e.zip",
+      "bundle_sha256": "4641747ef1f6725413d836e6770b99a427cdcd8a8270b4aafb10b48655e02a62"
+    },
+    {
+      "mod_version_id": "a6cc4eff-ff61-4536-90e9-b5eb285ccdef",
+      "name": "ModGate",
+      "version": "1.1.0",
+      "source": null,
+      "hash": "c35bdb31f970be56c600d13bbfcf04d1353788ba385169181a6443226087c601",
+      "files": [
+        "ModGate\\ModGate.dll",
+        "ModGate\\ModGate.json",
+        "ModGate\\ModGate.pck"
+      ],
+      "folder_name": "ModGate",
+      "mod_id": "ModGate",
+      "enabled": true,
+      "bundle_url": "https://github.com/arscabar/sts2mm-profiles/releases/download/bundles/ModGate_v1.1.0_4b6cdaec.zip",
+      "bundle_sha256": "4b6cdaec6f1923682b9b5dd3be884a1d24d805b353479815d893fb775203fe8e"
+    },
+    {
+      "mod_version_id": "9b1ff264-e0aa-4274-8375-d2e834ad897c",
+      "name": "BetterSpire2",
+      "version": "v1.83.14",
+      "source": null,
+      "hash": null,
+      "files": [
+        "BetterSpire2\\BetterSpire2.dll",
+        "BetterSpire2\\BetterSpire2.json",
+        "BetterSpire2\\BetterSpire2_localization\\deu.lang",
+        "BetterSpire2\\BetterSpire2_localization\\eng.lang",
+        "BetterSpire2\\BetterSpire2_localization\\esp.lang",
+        "BetterSpire2\\BetterSpire2_localization\\fra.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ita.lang",
+        "BetterSpire2\\BetterSpire2_localization\\jpn.lang",
+        "BetterSpire2\\BetterSpire2_localization\\kor.lang",
+        "BetterSpire2\\BetterSpire2_localization\\pol.lang",
+        "BetterSpire2\\BetterSpire2_localization\\ptb.lang",
+        "BetterSpire2\\BetterSpire2_localization\\README.txt",
+        "BetterSpire2\\BetterSpire2_localization\\rus.lang",
+        "BetterSpire2\\BetterSpire2_localization\\spa.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tha.lang",
+        "BetterSpire2\\BetterSpire2_localization\\tur.lang",
+        "BetterSpire2\\BetterSpire2_localization\\zhs.lang"
+      ],
+      "folder_name": "BetterSpire2",
+      "mod_id": "BetterSpire2",
+      "enabled": true,
+      "bundle_url": "https://github.com/arscabar/sts2mm-profiles/releases/download/bundles/BetterSpire2_v1.83.14_11e7972d.zip",
+      "bundle_sha256": "11e7972d187cdeffd15ff07f7d62d152db516e41802a5284b72f13fc3f5ebdf1"
+    },
+    {
+      "mod_version_id": "2d0e5edd-4283-4342-b6a9-b11edf7b4040",
+      "name": "皮皮统计: Skada",
+      "version": "1.16.1",
+      "source": null,
+      "hash": "ebf5589c320f74cc796f008a4031321c341ad935c08edb82b2dd63922207b951",
+      "files": [
+        "DamageMeter\\DamageMeter.dll",
+        "DamageMeter\\DamageMeter.json",
+        "DamageMeter\\DamageMeter.pck"
+      ],
+      "folder_name": "DamageMeter",
+      "mod_id": "DamageMeter",
+      "enabled": true,
+      "bundle_url": "https://github.com/arscabar/sts2mm-profiles/releases/download/bundles/__Skada_v1.16.1_ff1f6b55.zip",
+      "bundle_sha256": "ff1f6b55bfa8e52e6d81acfa45b946c197f43cbb27e4cfd20920037881935e24"
+    },
+    {
+      "mod_version_id": "8321fab1-a359-46ce-a901-8f9837c95b66",
+      "name": "皮皮快连: QuickLink",
+      "version": "0.10.2",
+      "source": null,
+      "hash": "21b954158d700aec9ee44b12f7eea0015c84f96318da5bc5d107929a6b1717e1",
+      "files": [
+        "QuickLink\\QuickLink.dll",
+        "QuickLink\\QuickLink.json",
+        "QuickLink\\QuickLink.pck"
+      ],
+      "folder_name": "QuickLink",
+      "mod_id": "QuickLink",
+      "enabled": true,
+      "bundle_url": "https://github.com/arscabar/sts2mm-profiles/releases/download/bundles/__QuickLink_v0.10.2_62b15445.zip",
+      "bundle_sha256": "62b15445ca7a805482130931cc8e01d37642014ad24195f4bddc6cf212856b8b"
+    },
+    {
+      "mod_version_id": "fd8a97a2-3aee-4de4-8693-883583095844",
+      "name": "Show Player Hand Cards",
+      "version": "0.6.2",
+      "source": null,
+      "hash": "87c102e88a3625f575a7c35927a1b6a67214f372d1d830e63f73d8e4c0dcaa04",
+      "files": [
+        "STS2-ShowPlayerHandCards\\mod_manifest.json",
+        "STS2-ShowPlayerHandCards\\STS2-ShowPlayerHandCards.dll"
+      ],
+      "folder_name": "STS2-ShowPlayerHandCards",
+      "mod_id": "STS2-ShowPlayerHandCards",
+      "enabled": true,
+      "bundle_url": "https://github.com/arscabar/sts2mm-profiles/releases/download/bundles/Show_Player_Hand_Cards_v0.6.2_50d12933.zip",
+      "bundle_sha256": "50d1293366f910c01ed7d03bb021fcf5e2a4e1a088aec022edc1ba215e3d3285"
+    },
+    {
+      "mod_version_id": "77e98875-e39b-4537-afdb-6b9c2db56d6c",
+      "name": "Multiplayer Potion View",
+      "version": "0.4.0",
+      "source": null,
+      "hash": "df4e753cc3ca9cf9768f6c81ac834b8cbb534b49f7bc68d3051593b86172cadb",
+      "files": [
+        "STS2-MultiPlayerPotionView\\mod_manifest.json",
+        "STS2-MultiPlayerPotionView\\STS2-MultiPlayerPotionView.dll"
+      ],
+      "folder_name": "STS2-MultiPlayerPotionView",
+      "mod_id": "STS2-MultiPlayerPotionView",
+      "enabled": true,
+      "bundle_url": "https://github.com/arscabar/sts2mm-profiles/releases/download/bundles/Multiplayer_Potion_View_v0.4.0_f61c67c9.zip",
+      "bundle_sha256": "f61c67c95822d03f1c50a092822d45ad0fa43a4f5ebe45032de2912ef8190ee0"
+    },
+    {
+      "mod_version_id": "348b5885-6583-4bc7-aba0-f0381f95517d",
+      "name": "Speed Control",
+      "version": "0.3.5",
+      "source": null,
+      "hash": "fca4fef485a677b56c4539b3b66c39884f860f01087856b41afacd6186b47756",
+      "files": [
+        "STS2-QuickAnimationMode\\mod_manifest.json",
+        "STS2-QuickAnimationMode\\STS2-QuickAnimationMode.dll"
+      ],
+      "folder_name": "STS2-QuickAnimationMode",
+      "mod_id": "STS2-QuickAnimationMode",
+      "enabled": true,
+      "bundle_url": "https://github.com/arscabar/sts2mm-profiles/releases/download/bundles/Speed_Control_v0.3.5_9cfc0594.zip",
+      "bundle_sha256": "9cfc0594844224d4cbcd9a345500495e31a77d61a5f902be4334fd362e5aedd0"
+    },
+    {
+      "mod_version_id": "f469ec83-90da-4579-a1f7-141ef4c00f4a",
+      "name": "RouteSuggest",
+      "version": "1.9.0",
+      "source": null,
+      "hash": "0321de0bf957bf9aa5fea9e934bfab323c33857284523116f3073152f15b912b",
+      "files": [
+        "RouteSuggest\\RouteSuggest.dll",
+        "RouteSuggest\\RouteSuggest.json",
+        "RouteSuggest\\RouteSuggest.pck",
+        "RouteSuggest\\RouteSuggestConfig.json"
+      ],
+      "folder_name": "RouteSuggest",
+      "mod_id": "RouteSuggest",
+      "enabled": true,
+      "bundle_url": "https://github.com/arscabar/sts2mm-profiles/releases/download/bundles/RouteSuggest_v1.9.0_07110245.zip",
+      "bundle_sha256": "07110245623f5482341059d3f2ba49bbc6c98bf672848a80f7f0c2e9cfbbc3f6"
+    },
+    {
+      "mod_version_id": "34fa556b-a890-4492-8ef3-6333ed315fb8",
+      "name": "BetterEmoteMod",
+      "version": "1.0.0",
+      "source": null,
+      "hash": "a598a92fbcd9d72bcfefb09053119d7e3fd2639298d0214a173ed9ac1e9a6b5f",
+      "files": [
+        "BetterEmoteMod\\BetterEmoteMod.dll",
+        "BetterEmoteMod\\BetterEmoteMod.pck",
+        "BetterEmoteMod\\mod_manifest.json"
+      ],
+      "folder_name": "BetterEmoteMod",
+      "mod_id": "BetterEmoteMod",
+      "enabled": true,
+      "bundle_url": "https://github.com/arscabar/sts2mm-profiles/releases/download/bundles/BetterEmoteMod_v1.0.0_9519eac1.zip",
+      "bundle_sha256": "9519eac1937001dcf7e88c691b1742a8e6f4b7cb240a40360bf495c5eb35df85"
+    },
+    {
+      "mod_version_id": "7be27a35-f396-4228-bfee-b8c289a77076",
+      "name": "STS2 Clear Inspect Cards",
+      "version": "v1.0.0",
+      "source": null,
+      "hash": "3c30068e0a077eca1ed3122fd6bd052bd5b5ac7efd5a8816d38b4c68701c44ae",
+      "files": [
+        "Sts2CardRenderProbe_beta\\Sts2CardRenderProbe.dll",
+        "Sts2CardRenderProbe_beta\\Sts2CardRenderProbe.json",
+        "Sts2CardRenderProbe_beta\\Sts2CardRenderProbe.pck"
+      ],
+      "folder_name": "Sts2CardRenderProbe_beta",
+      "mod_id": "Sts2CardRenderProbe",
+      "enabled": true,
+      "bundle_url": "https://github.com/arscabar/sts2mm-profiles/releases/download/bundles/STS2_Clear_Inspect_Cards_v1.0.0_c0fe7f83.zip",
+      "bundle_sha256": "c0fe7f83798e3c847ee36d175dc118c789797751b57907146fc394be4a062078"
+    },
+    {
+      "mod_version_id": "bf4a0763-28f4-47ae-9d5e-caa7673fe33d",
+      "name": "STS2 Skin Manager",
+      "version": "0.13.0",
+      "source": null,
+      "hash": "3cab84bd19587b18e25e9904c2947d80fa9da0b0ce6a9d55d3aa342ed3b5363a",
+      "files": [
+        "Sts2SkinManager\\LICENSE",
+        "Sts2SkinManager\\modpack_preset.preset",
+        "Sts2SkinManager\\README.ko.md",
+        "Sts2SkinManager\\README.md",
+        "Sts2SkinManager\\Sts2SkinManager.dll",
+        "Sts2SkinManager\\Sts2SkinManager.json"
+      ],
+      "folder_name": "Sts2SkinManager",
+      "mod_id": "Sts2SkinManager",
+      "enabled": true,
+      "bundle_url": "https://github.com/arscabar/sts2mm-profiles/releases/download/bundles/STS2_Skin_Manager_v0.13.0_0635451e.zip",
+      "bundle_sha256": "0635451e8bb7c770fffe4fdaaae234e543927851c76d630b76887fef796e84b6"
+    }
+  ],
+  "created_at": "2026-11-22T08:08:43Z",
+  "updated_at": "2026-11-22T10:07:18.642563600Z",
+  "public": false
+}
